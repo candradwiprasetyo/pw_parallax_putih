@@ -7,14 +7,17 @@
 
         <div class="col-md-8 col-md-offset-2">
           <div class="footer-form">
-            <form role="form">
+           	<form action="" enctype="multipart/form-data" method="POST" name="form_update" onsubmit="return call_update()">
              
               <div class="col-md-8  wow animated fadeInLeft" data-wow-delay="0.4s">
-                <input type="text" class="form-control" placeholder="Subject">
+                <input type="email" class="form-control" placeholder="Your Email" name="i_email" required>
               </div>
              
               <div class="col-md-4 button-container wow animated fadeInRight" data-wow-delay="0.8s">
-                <input type="submit" class="submit-btn def-btn" value="SAVE">
+             
+                                                    <button class="submit-btn def-btn">SAVE</button>
+                                            
+              
               </div>
             </form>
             </div>

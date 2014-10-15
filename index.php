@@ -29,7 +29,11 @@
     <!-- Main CSS -->
     <link href="css/style.css" rel="stylesheet">
     
-   
+    
+     <!-- sweet alert -->
+    <script src="js/alert/sweet-alert.js"></script>
+   	<!-- sweet alert-->
+    <link rel="stylesheet" type="text/css" href="css/alert/sweet-alert.css">
     <?php
     include 'css/style_config.php';
 	?>
@@ -106,8 +110,10 @@
     <script src="js/skill-bar.js"></script>
     
    
+    
+    <script src="js/function.js"></script>
 
-   <script src="js/custom.js"></script>
+    <script src="js/custom.js"></script>
     <script src="js/switcher.js"></script>
     <!-- Style Switcher - Demo Only END -->
 

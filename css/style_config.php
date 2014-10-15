@@ -185,6 +185,7 @@ a:hover {
 	background: <?= $bg_color ?>;
   color:#fff;
   font-weight:bold;
+  opacity:0.7;
   
 }
 .contact .footer-form .button-container .def-btn:hover {

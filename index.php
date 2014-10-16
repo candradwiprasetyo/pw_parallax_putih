@@ -29,6 +29,12 @@
     <!-- Main CSS -->
     <link href="css/style.css" rel="stylesheet">
     
+    <!-- Portofolio -->
+	<link rel="stylesheet" type="text/css" href="css/portofolio/demo.css" />
+	<link rel="stylesheet" type="text/css" href="css/portofolio/component.css" />
+    
+    <!-- link -->
+    <link rel="stylesheet" type="text/css" href="css/link.css" />
     
      <!-- sweet alert -->
     <script src="js/alert/sweet-alert.js"></script>
@@ -54,7 +60,8 @@
 	
 	include 'index/timeline.php';
 	
-	include 'index/portofolio.php'; 
+	
+	include 'index/portofolio_new.php'; 
 	
 	include 'index/pricing.php';
    
@@ -109,7 +116,8 @@
     <!--  skill bar  -->
     <script src="js/skill-bar.js"></script>
     
-   
+   	<!-- link -->
+    <script src="js/modernizr.custom.js"></script>
     
     <script src="js/function.js"></script>
 

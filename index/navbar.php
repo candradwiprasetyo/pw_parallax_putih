@@ -11,7 +11,7 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="#home">Home</a></li>
+          <li ><a href="#home">Home</a></li>
             <li><a href="#about">About Me</a></li>
             <li><a href="#portfolio">My Latest Work</a></li>
             <li><a href="#pricing">Pricing</a></li>
@@ -20,3 +20,4 @@
         </div><!--/.nav-collapse -->
       </div>
     </div>
+  

@@ -20,7 +20,7 @@
 
 <div class="title text-center wow animated fadeInLeft">
 	<div class="overlay"></div>
-      <div class="portfoliocontent">
+      <div class="portfoliocontent" >
 
         <div class="item col-md-3 col-sm-6 col-xs-12 webdesign">
           <a class="fancybox" href="images/portofolio/1_2.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">

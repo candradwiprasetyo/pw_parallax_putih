@@ -45,42 +45,8 @@ function validasi_email(string){
 					}
 			}
 			
-			document.querySelector('div.examples div.custom-icon button').onclick = function(){
-				var formx = document.form_update;
-				
-					i_email = formx.i_email.value;
-					if(i_email == ""){
-						swal({
-							title: "Thanks for join !",
-							text: "Any updates  will be shared to you",
-							imageUrl: 'images/candramelon.png'
-						});
-						//return false;
-					}else if(validasi_email(i_email)==false){
-						swal({
-							title: "Thanks for join !",
-							text: "Any updates  will be shared to you",
-							imageUrl: 'images/candramelon.png'
-						});
-						return false;
-					}else{
-						swal({
-						title: "Are you sure?",
-						text: "You will not be able to recover this imaginary file!",
-						type: "warning",
-						showCancelButton: true,
-						confirmButtonColor: '#DD6B55',
-						confirmButtonText: 'Yes, delete it!'
-					},
-					function(){
-						alert("Deleted!");
-					});
-						
-						
-					}
-				
-			};
 			
+		
 			document.querySelector('ul.examples2 li.custom-icon button').onclick = function(){
 				var formx = document.form_contact;
 					name = formx.i_name.value;

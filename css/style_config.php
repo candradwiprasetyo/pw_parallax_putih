@@ -309,6 +309,8 @@ a:hover {
 }
 
 
+
+
 	
 			/* Icon */
 			ul.icons {
@@ -473,6 +475,21 @@ a:hover {
 .update .footer-form .button-container .def-btn:hover {
   background: #fff;
   color: <?= $bg_color?>
+}
+
+/*  new portofolio */
+
+figure.effect-zoe figcaption {
+	top: auto;
+	bottom: 0;
+	padding: 1em;
+	height: 3.75em;
+	background: <?= $bg_color?>;
+	color: #fff;
+	-webkit-transition: -webkit-transform 0.35s;
+	transition: transform 0.35s;
+	-webkit-transform: translate3d(0,100%,0);
+	transform: translate3d(0,100%,0);
 }
 
 

@@ -9,7 +9,7 @@
            <div class="col-md-12 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
            <img src="images/candramelon.png" alt="img01" class="img_about" />
           </div>
-          
+         
            <div class="col-md-12 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
            <p>
            My Name is Candra D Prasetyo. I am a <b>PROGRAMMER</b> 

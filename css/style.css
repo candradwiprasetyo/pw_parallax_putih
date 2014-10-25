@@ -685,7 +685,7 @@ a:hover {
 /*        11 - Pricing Elements
 /*==========================================*/
 .pricing {
-  padding: 50px 0px;
+  padding: 30px 0px;
 }
 .pricing .title h1 {
   margin-bottom: 30px;
@@ -971,7 +971,7 @@ a:hover {
 /*        17 - contact Elements
 /*==========================================*/
 .contact {
-  padding: 50px 0px;
+  padding: 30px 0px;
   text-shadow: 0pt 1px 1px #ffffff;
 }
 .contact .title h1 {

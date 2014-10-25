@@ -67,7 +67,7 @@
    
 	include 'index/testimonial.php'; 
 	
-	include 'index/map.php';
+	//include 'index/map.php';
 	
 	include 'index/update.php'; 
 	

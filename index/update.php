@@ -7,7 +7,7 @@
 
         <div class="col-md-8 col-md-offset-2">
           <div class="footer-form">
-           	<form action="" enctype="multipart/form-data" method="POST" name="form_update" onsubmit="return call_update()">
+           	<form action="" enctype="multipart/form-data" method="POST" name="form_update"  onsubmit="return call_update()">
              
               <div class="col-md-8  wow animated fadeInLeft" data-wow-delay="0.4s">
                 <input type="email" class="form-control" placeholder="Your Email" name="i_email" required>

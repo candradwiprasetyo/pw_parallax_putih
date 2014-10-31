@@ -56,10 +56,11 @@
    
 	include 'index/about.php'; 
 	
-	include 'index/skill_bar.php';
-	
 	include 'index/timeline.php';
 	
+	include 'index/skill_bar.php';
+	
+	include 'index/service.php'; 
 	
 	include 'index/portofolio_new.php'; 
 	

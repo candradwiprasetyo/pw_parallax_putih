@@ -1,4 +1,5 @@
- <section class="about" id="about">
+<div id="timeline_page"></div>
+ <section class="timeline" id="timeline">
       <div class="container">
         <div class="row">
  

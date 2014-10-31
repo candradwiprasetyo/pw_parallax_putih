@@ -492,5 +492,12 @@ figure.effect-zoe figcaption {
 	transform: translate3d(0,100%,0);
 }
 
+.about_button{
+	background-color:<?= $bg_color ?>;
+	text-shadow:none;
+}
+.about_button:hover{
+	background:#fff;
+}
 
 </style>

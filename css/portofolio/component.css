@@ -1245,7 +1245,7 @@ figure.effect-chico:hover p {
 }
 
 
-@media screen and (max-width: 40em) {
+@media screen and (max-width: 30em) {
 
 	.grid figure {
 		width: 100%;

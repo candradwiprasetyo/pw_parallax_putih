@@ -36,6 +36,7 @@ html,
 body {
   font-family: 'Open Sans';
   height: 100% !important;
+  background: url(../images/bg-noise.png) #E9F0F5;
 }
 html h1,
 body h1,
@@ -52,7 +53,7 @@ body h5 {
 	
 }
 section {
-  background: url(../images/bg-noise.png) #E9F0F5;
+  
   
 }
 a {
@@ -341,7 +342,7 @@ a:hover {
 }
 
 .skill_bar{
-	padding-bottom:50px;
+	padding:50px 0;
 }
 .skill_bar .title h1{
 	color:#666;	
@@ -358,11 +359,14 @@ a:hover {
   position: relative;
   color: #ffffff;
 }
-
+.testimonial .title h1 {
+  padding-top: 30px;
+  color:#fff;
+}
 .testimonial .carousel {
   display: inline-block;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   position: relative;
   z-index: 2;
 }
@@ -370,9 +374,16 @@ a:hover {
   text-align: center;
   margin: 0 auto;
 }
+.testimonial .carousel .item .img_about{
+	width:120px;
+	height:120px;
+	border-radius:50%;
+	border:5px solid #fff;
+	margin-bottom:1em;
+}
 .testimonial .carousel .item .text {
   text-align: center;
-  width: 75%;
+  width: 100%;
   margin: 0 auto;
   font-size: 16px;
   line-height: 25px;
@@ -395,6 +406,9 @@ a:hover {
   top: 45%;
   border: 1px solid #ffffff;
   text-align: center;
+}
+.testimonial .carousel .carousel-control .control-circle:hover {
+	background-color:#fff;
 }
 .testimonial .carousel .carousel-control .control-circle.left {
   left: 30%;
@@ -1150,6 +1164,9 @@ a:hover {
     margin-left: 5px;
     margin-right: 5px;
   }
+   .testimonial .carousel .item .text {
+	  width:75%;
+	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .navbar-inverse .navbar-nav li a {
@@ -1162,6 +1179,9 @@ a:hover {
   .navbar-inverse .navbar-collapse ul.navbar-nav li a {
     padding: 30px 20px;
   }
+  .testimonial .carousel .item .text {
+	  width:75%;
+	}
 }
 @media (max-width: 480px) {
   .banner .banner-content .title h1 {
@@ -1175,4 +1195,24 @@ a:hover {
   .banner .banner-content .buttons {
     margin-top: 20px;
   }
+   .testimonial .carousel .item .text {
+	  width:75%;
+	}
+}
+
+.notice{
+	color:#67A1C6;
+	font-weight:bold;
+	text-transform:uppercase;
+	font-size:16px;
+	
+}
+#about_page{
+	height:60px;
+}
+#timeline_page{
+	height:40px;
+}
+.timeline{
+	padding:50px 0;
 }

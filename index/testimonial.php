@@ -1,26 +1,41 @@
 <!-- testimonial section BEGIN-->
     <section class="testimonial text-center" id="testimonial">
       <div class="overlay"></div>
+       <div class="title text-center wow animated fadeInDown"><h1>My <strong>Testimonial</strong></h1></div> 
       <div id="testimonial-carousel" class="carousel slide" data-ride="carousel">
+     
         <div class="container wow animated fadeInUp" data-wow-delay="0s">
           <div class="carousel-inner">
+         
+           
             <div class="item active">
+             <div class="col-md-2 col-md-offset-1 title text-center">
+           <img src="images/candramelon.png" alt="img01" class="img_about" />
+          </div>
+          <div class="col-md-8 title text-center">
               <div class="text">
                 " Nullam rhoncus suscipit mauris, sit amet suscipit nisi eleifend et. Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus suscipit mauris, sit amet suscipit nisi   eleifend et consectetur adipiscing elit. "
               </div>
               <div class="name">
                 <span class="textbold">Johny Doe</span>, CEO of Rancabentang
               </div>
-            </div><!--/.item -->
+            </div>
+            </div>
 
             <div class="item">
+               <div class="col-md-2 col-md-offset-1 title text-center">
+           <img src="images/candramelon.png" alt="img01" class="img_about" />
+          </div>
+          <div class="col-md-8 title text-center">
               <div class="text">
                 " Nullam rhoncus suscipit mauris, sit amet suscipit nisi eleifend et. Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Nullam rhoncus suscipit mauris, sit amet suscipit nisi   eleifend et consectetur adipiscing elit. "
               </div>
               <div class="name">
-                <span class="textbold">Steve Doe</span>, CEO of Kebon Kopi
+                <span class="textbold">Johny Doe</span>, CEO of Rancabentang
               </div>
+            </div>
             </div><!--/.item -->
+            
           </div><!--/.carousel-inner -->
         </div><!--/.container -->
 

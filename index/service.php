@@ -6,7 +6,21 @@
             <h1>My <strong>Service</strong></h1>
           </div>
           
-           
+            <div class="col-md-8 col-md-offset-2 feature wow animated fadeInUp" data-wow-delay="0.3s">
+            <div class="content">
+              <div class="icon">
+                <i class="fa fa-wrench"></i>
+              </div>
+              <div class="text">
+                <div class="title"><h4>Custom Website Development Services</h4></div>
+                <div class="description">
+                  <p>
+                 I can help you with your web development needs as well. I can deliver exactly what you are looking for, such as a custom e-commerce application, client portals for you and your clients to use. I can develop a custom website that integrates easily and seamlessly with your business.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
          
          
           

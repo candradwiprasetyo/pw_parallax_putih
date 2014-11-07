@@ -56,23 +56,23 @@
    
 	include 'index/about.php'; 
 	
-	include 'index/timeline.php';
+	//include 'index/timeline.php';
 	
-	include 'index/skill_bar.php';
+	//include 'index/skill_bar.php';
 	
-	include 'index/service.php'; 
+	//include 'index/service.php'; 
 	
-	include 'index/portofolio_new.php'; 
+	//include 'index/portofolio_new.php'; 
 	
 	include 'index/pricing.php';
    
-	include 'index/testimonial.php'; 
+	//include 'index/testimonial.php'; 
 	
 	//include 'index/map.php';
 	
-	include 'index/update.php'; 
+	//include 'index/update.php'; 
 	
-	include 'index/contact.php'; 
+	//include 'index/contact.php'; 
 	
 	include 'index/footer.php'; 
 	
@@ -109,7 +109,6 @@
     <script src="js/owl.carousel.js"></script>
     <script src="js/jquery.fancybox.pack.js"></script>
     <script src="js/backstretch.js"></script>
-    <script src="js/jquery.countTo.js"></script>
     <script src="js/wow.min.js"></script>
     <script src="js/masonry.pkgd.min.js"></script>
     <script src="js/isotope.pkgd.min.js"></script>
@@ -123,8 +122,6 @@
     <script src="js/function.js"></script>
 
     <script src="js/custom.js"></script>
-    <script src="js/switcher.js"></script>
-    <!-- Style Switcher - Demo Only END -->
 
   </body>
 </html>

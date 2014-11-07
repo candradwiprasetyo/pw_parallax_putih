@@ -1,7 +1,7 @@
 <!-- testimonial section BEGIN-->
     <section class="testimonial text-center" id="testimonial">
       <div class="overlay"></div>
-       <div class="title text-center wow animated fadeInDown"><h1>My <strong>Testimonial</strong></h1></div> 
+      
       <div id="testimonial-carousel" class="carousel slide" data-ride="carousel">
      
         <div class="container wow animated fadeInUp" data-wow-delay="0s">

@@ -7,11 +7,11 @@
             <h1>About <strong>Me</strong></h1>
           </div>
           
-           <div class="col-md-12 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
+           <div class="col-md-12 title text-center wow animated zoomIn" data-wow-delay="0.1s">
            <img src="images/candramelon.png" alt="img01" class="img_about" />
           </div>
          
-           <div class="col-md-8 col-md-offset-2 title text-center wow animated fadeInRight" data-wow-delay="0.1s">
+           <div class="col-md-8 col-md-offset-2 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
            <p>
            My Name is Candra D Prasetyo. I am a <b>PROGRAMMER</b> 
 					based in Surabaya, East Java, Indonesia. <br />
@@ -21,10 +21,10 @@
 					My skills are web design, web programming and desktop programming, But my speciallity in web programming. I've designed websites for small businesses, company profile, personal website, nonprofits, more.
            </p>
            </div>	
-           <div class="col-md-12 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
+           <div class="col-md-12 title text-center " data-wow-delay="0.1s">
            <div class="buttons">
-              <a href="#about" class="def-btn about_button"><strong>Download My CV</strong></a>
-               <a href="#timeline_page" class="def-btn about_button"><strong>Know Me Better</strong></a>
+              <a href="#about" class="def-btn about_button wow animated fadeInLeft"><strong>Download My CV</strong></a>
+               <a href="#timeline_page" class="def-btn about_button wow animated fadeInRight"><strong>Know Me Better</strong></a>
             </div>
             </div>
           

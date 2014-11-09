@@ -1,5 +1,6 @@
 <!-- testimonial section BEGIN-->
-    <section class="update text-center" id="update">
+  
+<section class="update text-center" id="update">
       
     <div class="container"> 
         <div class="title text-center wow animated fadeInDown"><h1>Do You Want to get <strong>updates</strong> ?</h1></div> 
@@ -22,6 +23,7 @@
             </form>
             </div>
         
+      </div>
       </div>
       
     </section><!--/.testimonial -->

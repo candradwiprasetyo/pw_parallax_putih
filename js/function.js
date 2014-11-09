@@ -37,7 +37,7 @@ function validasi_email(string){
 						confirmButtonText: 'OK'
 						},
 						function(){
-							window.location = 'proses.php?act=1';
+							window.location = 'index/proses.php?act=1&email=' + i_email;
 						});
 						return false;
 						

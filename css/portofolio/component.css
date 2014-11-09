@@ -58,11 +58,7 @@
 /* Anchor will cover the whole item by default */
 /* For some effects it will show as a button */
 .grid figure a {
-	z-index: 1000;
-	text-indent: 200%;
-	white-space: nowrap;
-	font-size: 0;
-	opacity: 0;
+	
 }
 
 .grid figure h2 {

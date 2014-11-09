@@ -53,7 +53,8 @@
             </div>
           </div>
         </div>
-        -->
+        
+        <div class="col-md-12 col-md-offset-1">-->
         
         <div class="col-md-4 col-sm-6">
           <div class="pricing-table wow animated fadeInUp" data-wow-delay="0.3s">
@@ -69,7 +70,7 @@
             <div class="list">
               <ul>
                 <li><span class="textbold">Have a <strong>Awesome Project ?</strong> </span></li>
-                <li><span class="textbold">Need <strong>help ?</strong> </span></li>
+                <li><span class="textbold">Need creative <strong>help ?</strong> </span></li>
                 <li><span class="textbold">Or want to make the <strong>Team ?</strong></span> </li>
                 <li><span class="textbold">And wants to change the <strong>WORLD ?</strong> </span></li>
                 <li><span class="textbold"></span></li>
@@ -85,6 +86,8 @@
             <div class="pricing_block"></div>
           </div>
         </div>
+        
+     
 
       </div>
     </section>

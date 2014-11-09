@@ -46,7 +46,7 @@
 	
   </head>
 
-  <body data-spy="scroll" data-target=".navbar-collapse" data-offset="80" class="slideshowbody">
+  <body data-spy="scroll" data-target=".navbar-collapse" data-offset="0" class="slideshowbody">
     
 	<?php 
 	

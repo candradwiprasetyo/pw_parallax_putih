@@ -42,7 +42,7 @@
           <div class="col-md-4 feature wow animated fadeInUp" data-wow-delay="0.1s">
             <div class="content">
               <div class="icon">
-                <i class="fa fa-flash"></i>
+                <i class="fa fa-clock-o"></i>
               </div>
               <div class="text">
                 <div class="title"><h4>Easy & Fast</h4></div>

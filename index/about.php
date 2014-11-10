@@ -1,5 +1,4 @@
- <!-- about section BEGIN -->
- <div id="about_page"></div>
+
     <section class="about" id="about" style="padding-bottom:0px !important">
       <div class="container">
         <div class="row">
@@ -34,4 +33,4 @@
       </div><!-- /.container -->
     </section><!-- /.features -->
     <!-- about section END -->
-    <br />
+  

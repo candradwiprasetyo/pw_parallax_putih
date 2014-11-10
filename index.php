@@ -46,7 +46,7 @@
 	
   </head>
 
-  <body data-spy="scroll" data-target=".navbar-collapse" data-offset="0" class="slideshowbody">
+  <body data-spy="scroll" data-target=".navbar-collapse" data-offset="80" class="slideshowbody">
     
 	<?php 
 	
@@ -62,7 +62,7 @@
 	
 	include 'index/service.php'; 
 	
-	include 'index/portofolio_new.php'; 
+    include 'index/portofolio_new.php'; 
 	
 	include 'index/pricing.php';
    

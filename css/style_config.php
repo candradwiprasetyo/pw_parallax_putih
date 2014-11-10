@@ -52,13 +52,14 @@ a:hover {
 /*       02 - Navbar Elements
 /*==========================================*/
 .navbar-inverse.scroll-fixed-navbar .navbar-nav li:hover a {
-  color: <?= $bg_color ?>;
+  color: #888888;
 }
 .navbar-inverse.scroll-fixed-navbar .navbar-nav li.active a {
-  color: <?= $bg_color ?>;
+  color: #888888;
+  font-weight:bold;
 }
 .navbar-inverse.scroll-fixed-navbar .navbar-nav li.active a:hover {
-  color: <?= $bg_color ?>;
+  color: #888888;
 }
 /*==========================================*/
 /*       03 - Banner Elements
@@ -484,7 +485,8 @@ figure.effect-zoe figcaption {
 	bottom: 0;
 	padding: 1em;
 	height: 3.75em;
-	background: <?= $bg_color?>;
+	border-top:1px solid #666;
+	background:<?= $bg_color?>;
 	color: #fff;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;

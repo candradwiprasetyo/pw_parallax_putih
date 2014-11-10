@@ -19,8 +19,13 @@ I'm a Web Programmer & UI Designer based in Surabaya, East Java, Indonesia. <br>
             <div class="buttons">
               <a href="#about_page" class="def-btn"><strong>Know Me Better</strong></a>
             </div>
+            
+          
+            
           </div>
         </div><!-- /.container -->
       </div><!-- /.banner-content -->
+       
     </section><!-- /.banner -->
+    
     <!-- banner section END -->

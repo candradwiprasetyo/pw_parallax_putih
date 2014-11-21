@@ -1,4 +1,4 @@
-
+<div id="about_page"></div>
     <section class="about" id="about" style="padding-bottom:0px !important">
       <div class="container">
         <div class="row">
@@ -9,8 +9,9 @@
            <div class="col-md-12 title text-center wow animated zoomIn" data-wow-delay="0.1s">
            <img src="images/candramelon.png" alt="img01" class="img_about" />
           </div>
-         
+        
            <div class="col-md-8 col-md-offset-2 title text-center wow animated fadeInUp" data-wow-delay="0.1s">
+           <br />
            <p>
            My Name is Candra D Prasetyo. I am a <b>PROGRAMMER</b> 
 					based in Surabaya, East Java, Indonesia. <br />

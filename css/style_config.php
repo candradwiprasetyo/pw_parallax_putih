@@ -1,6 +1,7 @@
 <?php
 
 //$bg_color = '#1CBB9B';
+//$bg_color = "#67A1C6";
 $bg_color = "#67A1C6";
 ?>
 <style>

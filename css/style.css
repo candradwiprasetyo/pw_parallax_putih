@@ -151,7 +151,8 @@ a:hover {
   position: relative;
   display: table;
   z-index: 1;
-  background: transparent;
+  background:url(../images/home-office-336373_1920.jpg) fixed;
+  background-size: cover;
 }
 
 .banner .banner-content {
@@ -161,6 +162,7 @@ a:hover {
   vertical-align: middle;
   text-align: center;
   color: #ffffff;
+  
  
 }
 .banner .banner-content .title {
@@ -355,8 +357,6 @@ a:hover {
 /*        06 - Testimonial Elements
 /*==========================================*/
 .testimonial {
-  background: url("../../images/banner2.jpg") fixed;
-  background-size: cover;
   position: relative;
   color: #ffffff;
 }
@@ -1212,7 +1212,7 @@ a:hover {
 	height:60px;
 }
 #timeline_page{
-	height:40px;
+	height:60px;
 }
 #update_page{
 	height:60px;

@@ -30,12 +30,22 @@
                 for($i=1;$i<=15;$i++){
 				?>
               	
-				<figure class="effect-zoe <?php if($i > 10){ echo " webdesign"; }else if($i > 5){ echo " webdevelopment"; }else{ echo " desktopapp"; }?>">
+				<figure class="effect-milo <?php if($i > 10){ echo " webdesign"; }else if($i > 5){ echo " webdevelopment"; }else{ echo " desktopapp"; }?>">
 				<a  class="fancybox" href="images/portofolio/3_2.jpg" data-fancybox-group="gallery"  title="Lorem ipsum dolor sit amet"><img src="images/portofolio/<?= $i ?>_2.jpg" alt="img<?= $i ?>"/>
 					<figcaption>
-						<h2>See<span>More</span></h2>
-						<span class="figure_date">13 Sep `14</span>
-						<p>Sistem Informasi Perpasaran <strong>PD Pasar Surya</strong></p>
+						
+                        <div class="portofolio_putih">
+                        <div><strong>Sistem Informasi PD Pasar Surya </strong><br />
+                        <span class="portofolio_putih_kecil">Surabaya Sistem Informasi Sistem Informasi</span> </div>
+                        
+                        <div class="portofolio_kiri">&nbsp;</div>
+                        <div class="portofolio_kanan">WEB DESIGN</div>
+                       
+						</div>
+                        <span class="figure_date">13 Nov 2014</span>
+						<p class="portofolio_icon">
+                   
+                        </p>
 						
 					</figcaption>	   
           	</a>

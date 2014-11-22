@@ -27,16 +27,46 @@
    
 <div class="grid"> <div class="portfoliocontent">
 				<?php
-                for($i=1;$i<=15;$i++){
+                for($i=1;$i<=12;$i++){
+					$nama_por = array(
+								'',
+								'Amanah Fashion',
+								'Amanah Fashion',
+								'Elkabumi Caraka Daya',
+								'Internet Taqwa',
+								'POIN Online Purchase Order Inventory Online',
+								'Sapar',
+								'AIA Insurance',
+								'Wimbi Store',
+								'Daun Pandan Catering',
+								'BPM',
+								'Prima Mandiri Trans',
+								'Agenda Kota'
+								);
+					$ket_por = array(
+								'',
+								'Online Store',
+								'Online Store',
+								'Company Profile',
+								'Portal Website',
+								'Purchase Order Inventory Online Purchase Order Inventory Online',
+								'Portal Website',
+								'Event Management',
+								'Online Store',
+								'Restaurant and Catering Website',
+								'Portal Website',
+								'Truck Management',
+								'Portal Website'
+								);
 				?>
               	
 				<figure class="effect-milo <?php if($i > 10){ echo " webdesign"; }else if($i > 5){ echo " webdevelopment"; }else{ echo " desktopapp"; }?>">
-				<a  class="fancybox" href="images/portofolio/3_2.jpg" data-fancybox-group="gallery"  title="Lorem ipsum dolor sit amet"><img src="images/portofolio/<?= $i ?>_2.jpg" alt="img<?= $i ?>"/>
+				<a  class="fancybox" href="images/portofolio_new/<?= $i ?>.jpg" data-fancybox-group="gallery"  title="Lorem ipsum dolor sit amet"><img src="images/portofolio_new/<?= $i ?>.jpg" alt="img<?= $i ?>"/>
 					<figcaption>
 						
                         <div class="portofolio_putih">
-                        <div><strong>Sistem Informasi PD Pasar Surya </strong><br />
-                        <span class="portofolio_putih_kecil">Surabaya Sistem Informasi Sistem Informasi</span> </div>
+                        <div><strong><?= $nama_por[$i] ?></strong><br />
+                        <span class="portofolio_putih_kecil"><?= $ket_por[$i] ?></span> </div>
                         
                         <div class="portofolio_kiri">&nbsp;</div>
                         <div class="portofolio_kanan">WEB DESIGN</div>
